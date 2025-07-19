@@ -1,7 +1,7 @@
 
 Chocolate Pot De Creme
 
-	- From Chef Jean Peirre
+    Source - Chef Jean Peirre
 	https://chefjeanpierre.com/recipes/dessert/chocolate-custard-pot-de-creme/
 
 
@@ -57,8 +57,9 @@ Chocolate Pot De Creme
 # Instructions
 
 	1. Prep
+	
 		1. Preheat the oven to 300F.
-		
+		2. Have all ingredients ready.
 
 	2. Prepare the cream
 
